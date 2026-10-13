@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-11T03:08:07.692Z",
+  "generatedAt": "2026-10-13T03:08:38.268Z",
   "windowDays": 30,
   "totalDevices": 8,
   "plugins": {
@@ -17,7 +17,7 @@
       "samples": 8
     },
     "browser": {
-      "score": 0.4444,
+      "score": 0.5,
       "samples": 8
     },
     "canvas": {
@@ -77,7 +77,7 @@
       "samples": 8
     },
     "metrics": {
-      "score": 0.4444,
+      "score": 0.5,
       "samples": 8
     },
     "minutes": {
@@ -89,15 +89,15 @@
       "samples": 8
     },
     "mobile-dev": {
-      "score": 0.4444,
-      "samples": 8
-    },
-    "narrator": {
       "score": 0.5,
       "samples": 8
     },
+    "narrator": {
+      "score": 0.5556,
+      "samples": 8
+    },
     "notepad": {
-      "score": 0.4444,
+      "score": 0.5,
       "samples": 8
     },
     "observers": {
@@ -121,7 +121,7 @@
       "samples": 8
     },
     "secrets-vault": {
-      "score": 0.4444,
+      "score": 0.5,
       "samples": 8
     },
     "security": {
@@ -157,7 +157,7 @@
       "samples": 8
     },
     "testing": {
-      "score": 0.4444,
+      "score": 0.5,
       "samples": 8
     },
     "vidiq": {
