@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-19T03:10:23.715Z",
+  "generatedAt": "2026-10-20T03:09:19.864Z",
   "windowDays": 30,
   "totalDevices": 9,
   "plugins": {
@@ -121,8 +121,8 @@
       "samples": 9
     },
     "remote": {
-      "score": 0.4545,
-      "samples": 1
+      "score": 0.4167,
+      "samples": 2
     },
     "secrets-vault": {
       "score": 0.5263,
