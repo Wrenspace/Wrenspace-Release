@@ -1,176 +1,176 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-06T03:06:44.535Z",
+  "generatedAt": "2026-11-09T03:07:11.011Z",
   "windowDays": 30,
-  "totalDevices": 6,
+  "totalDevices": 5,
   "plugins": {
     "agent-teams": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "api": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "apollo": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "browser": {
-      "score": 0.625,
-      "samples": 6
+      "score": 0.5714,
+      "samples": 4
     },
     "canvas": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "companion": {
-      "score": 0.6875,
-      "samples": 6
+      "score": 0.6429,
+      "samples": 4
     },
     "coordinator": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "diagram": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "events": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "fal": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "flora": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "focus-inbox": {
-      "score": 0.375,
-      "samples": 6
-    },
-    "git-manager": {
-      "score": 0.6875,
-      "samples": 6
-    },
-    "higgsfield": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "live-streamer": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "loops": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "memory": {
-      "score": 0.6875,
-      "samples": 6
-    },
-    "metrics": {
-      "score": 0.625,
-      "samples": 6
-    },
-    "minutes": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "missions": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "mobile-dev": {
-      "score": 0.625,
-      "samples": 6
-    },
-    "narrator": {
-      "score": 0.625,
-      "samples": 6
-    },
-    "notepad": {
-      "score": 0.625,
-      "samples": 6
-    },
-    "observers": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "projects": {
-      "score": 0.6875,
-      "samples": 6
-    },
-    "prompt-hydrator": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "quality-assurance": {
-      "score": 0.5625,
-      "samples": 6
-    },
-    "recorder": {
-      "score": 0.3125,
-      "samples": 6
-    },
-    "remote": {
       "score": 0.4286,
       "samples": 4
     },
+    "git-manager": {
+      "score": 0.6429,
+      "samples": 4
+    },
+    "higgsfield": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "live-streamer": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "loops": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "memory": {
+      "score": 0.6429,
+      "samples": 4
+    },
+    "metrics": {
+      "score": 0.5714,
+      "samples": 4
+    },
+    "minutes": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "missions": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "mobile-dev": {
+      "score": 0.5714,
+      "samples": 4
+    },
+    "narrator": {
+      "score": 0.5714,
+      "samples": 4
+    },
+    "notepad": {
+      "score": 0.5714,
+      "samples": 4
+    },
+    "observers": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "projects": {
+      "score": 0.6429,
+      "samples": 4
+    },
+    "prompt-hydrator": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "quality-assurance": {
+      "score": 0.5,
+      "samples": 4
+    },
+    "recorder": {
+      "score": 0.3571,
+      "samples": 4
+    },
+    "remote": {
+      "score": 0.3846,
+      "samples": 3
+    },
     "secrets-vault": {
-      "score": 0.5625,
-      "samples": 6
+      "score": 0.5714,
+      "samples": 4
     },
     "security": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "skills": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "slack": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "snip": {
-      "score": 0.6875,
-      "samples": 6
+      "score": 0.6429,
+      "samples": 4
     },
     "socials": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "ssh": {
-      "score": 0.6875,
-      "samples": 6
+      "score": 0.6429,
+      "samples": 4
     },
     "stripe-payments": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "tasks": {
-      "score": 0.375,
-      "samples": 6
+      "score": 0.4286,
+      "samples": 4
     },
     "testing": {
-      "score": 0.625,
-      "samples": 6
+      "score": 0.5714,
+      "samples": 4
     },
     "vidiq": {
-      "score": 0.3125,
-      "samples": 6
+      "score": 0.3571,
+      "samples": 4
     },
     "voice": {
-      "score": 0.625,
-      "samples": 6
+      "score": 0.5714,
+      "samples": 4
     },
     "workspace": {
-      "score": 0.6875,
-      "samples": 6
+      "score": 0.6429,
+      "samples": 4
     }
   }
 }
